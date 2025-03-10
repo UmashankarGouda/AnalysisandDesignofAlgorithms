@@ -4,5 +4,5 @@ Every file committed to the respository contains the date particular to when the
 Author : Umashankar S <br/>
 Contact : umashankargouda8@gmail.com <br/>
 
-You are allowed to legally reproduce or reuse certain aspects of the work of this repository without the owner (Umashankar S) explicit permission for the Educational Purposes, 
+You are allowed to legally reproduce or reuse certain aspects of the work of this repository without the owner [Umashankar S / theUngovernable / theFirstTargaryen] explicit permission for the Educational Purposes, 
 which qualify as “fair use” under section 107 of the Copyright Act.
