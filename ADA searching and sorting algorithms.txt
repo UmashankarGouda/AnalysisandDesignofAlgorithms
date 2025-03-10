@@ -1,0 +1,48 @@
+Sorting Algorithms
+
+Comparison Based : 
+- Selection Sort, 
+- Bubble Sort, 
+- Insertion Sort, 
+- Merge Sort, 
+- Quick Sort, 
+- Heap Sort, 
+- Cycle Sort, 
+- 3-way Merge Sort
+
+Non Comparison Based : 
+- Counting Sort, 
+- Radix Sort, 
+- Bucket Sort, 
+- TimSort, 
+- Comb Sort, 
+- Pigeonhole Sort
+
+Hybrid Sorting Algorithms : 
+- IntroSort, 
+- Tim Sort
+
+*******************
+Searching Algorithms
+
+Linear Search
+Binary Search
+Two Pointers Technique
+
+More Searching Algorithms
+
+Sentinel Linear Search
+Meta Binary Search | One-Sided Binary Search
+Ternary Search
+Jump Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+The Ubiquitous Binary Search
+
+
+
+
+
+
+
